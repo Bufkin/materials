@@ -1,3 +1,5 @@
+#! /usr/bin/env/python311
+
 import sys
 from pathlib import Path
 
